@@ -1,0 +1,15 @@
+# Data user & session (JANGAN di-push!)
+data/users.json
+data/sessions/
+tmp/*
+!tmp/.gitkeep
+
+# Log & OS
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
